@@ -1,0 +1,1 @@
+EmpleadoTiempoCompleto,Luis Gustavo,5000

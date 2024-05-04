@@ -1,0 +1,10 @@
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\bin\Debug\Programa1.exe.config
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\bin\Debug\Programa1.exe
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\bin\Debug\Programa1.pdb
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\obj\Debug\Programa1.csproj.AssemblyReference.cache
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\obj\Debug\Programa1.Form1.resources
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\obj\Debug\Programa1.Properties.Resources.resources
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\obj\Debug\Programa1.csproj.GenerateResource.cache
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\obj\Debug\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\obj\Debug\Programa1.exe
+C:\Users\brlui\OneDrive\Escritorio\Parcial 2\Programa1\obj\Debug\Programa1.pdb
